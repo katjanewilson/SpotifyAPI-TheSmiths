@@ -5,7 +5,7 @@ I recently came across this AI lyric generator. As a musician and songwriter mys
 ## Table of Contents
 
 <p align="center">
-<img src="https://github.com/katjanewilson/WhartonAnalytics-YouTube/blob/master/images/youtube_logo.png"
+<img src="https://github.com/katjanewilson/SpotifyAPI-TheSmiths/blob/master/images/image3.png"
   alt="Size Limit comment in pull request about bundle size changes"
   width="686" height="289">
 </p>
